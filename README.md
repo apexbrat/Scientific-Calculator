@@ -1,2 +1,2 @@
 # Scientific-Calculator
-A scientific calculator!
+A scientific calculator based on JavaScript.
